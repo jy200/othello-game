@@ -22,3 +22,4 @@ Can toggle AI vs AI by inputting both -a \<agentA> and -b \<agentB>
 
 Can play against an AI player by inputting just  -a \<agentA>
 
+![othello](https://github.com/user-attachments/assets/8296e83d-41f9-49ab-ad63-b9e47f52952c)
